@@ -6,5 +6,9 @@ desarrollado en React js con Typescript y Mobx
 
 ## Pasos
 
-    npm install
-    docker-compose up -d
+    docker-compose up 
+
+
+## Ejecucion
+
+    abrir un navegador e ingresar a : http://localhost:8080
