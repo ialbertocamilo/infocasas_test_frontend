@@ -1,0 +1,14 @@
+.box-style{
+
+    background-color: white;
+}
+
+.box-input{
+    width: 100%;
+    max-width: 350px;
+}
+
+.list-item{
+    padding: 10px;
+    border-bottom: 1px solid #C7C7C7;
+}
